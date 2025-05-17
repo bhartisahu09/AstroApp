@@ -32,10 +32,10 @@ A clean and responsive Flutter UI for displaying an expert's profile with rating
 `flutter run`
 
 ### Home Screen  
-<img src="assets/images/screenshot1.png.png" width="300">
+<img src="assets/images/screenshot1.png" width="300">
 
 ### Details Screen  
-<img src="assets/images/screenshot2.png.png" width="300">
+<img src="assets/images/screenshot2.png" width="300">
 
 
 ## Getting Started
