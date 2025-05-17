@@ -10,7 +10,6 @@ A clean and responsive Flutter UI for displaying an expert's profile with rating
 - Interaction stats (chat/call minutes)
 - Follow button
 - Horizontal image gallery
-- Gift sending section
 - Profile summary, specializations, and languages
 - Chat with Assistant button
 - User reviews section
